@@ -2,7 +2,7 @@
 ---
 <br>
 <p>
- BirthDate:3/9/2000
+ BirthDate:1379/04/15
   </p>
 <br>
 <p>
@@ -11,26 +11,24 @@
  <br>
  <p>
  
- Mobile:09912367869
+ Mobile:09332324008
  </p>
  <br>
  <p>
   
- Email:mohammadsarmast1379@gmail.com
+ Email:Tanazshabanradvar@gmail.com
   </p>
   <br>
   <p>
   
- Iran,Tehran Province,Tehran city
+ Iran,Tehran Province,andishe city
   </p>
 ---
 ### About
-+ Payame Noor Shahriyar student in the field of computer engineering and familiar with Python, Java, C ++,c, HTML, and CSS languages and passing the site design course.
++ I live in Andisheh in computer engineering and have skills js, C ++,c, HTML, and CSS .
 ---
 ### Skill
-+ programming languages(java,css,html,python,c++,c)
-+ Integrated Development Environment(Jango,Andrroid Studio)
-+ Web design
++ programming languages(js,css,html,c++,c)
 ---
 ### Education
 + Diploma:Shariati High School-2017,2018
@@ -41,7 +39,8 @@
 + Persian
 ---
 ### instagram Profile Link
-
+<br>
+ <a href=" https://instagram.com/tnnz_.r">instagram</a>
 
 ---
 ### ارزیابی رزومه
